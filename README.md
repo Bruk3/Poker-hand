@@ -1,3 +1,12 @@
+# Poker Hand
+
+## To run the game 
+
+* Compile and run game.java file on your local disk 
+
+
+
+
 In this assignment, you will implement a simulation of a popular casino game usually
 called video poker. The card deck contains 52 cards, 13 of each suit. At the beginning
 of the game, the deck is shuffled. You need to devise a fair method for shuffling. (It
