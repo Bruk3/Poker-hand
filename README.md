@@ -12,15 +12,22 @@ to create any of the hands below.
 • One pair—Two cards of the same value, for example two queens. Payout: 1
 
 • Two pairs—Two pairs, for example two queens and two 5’s. Payout: 2
+
 • Three of a kind—Three cards of the same value, for example three queens.
 Payout: 3
+
 • Straight—Five cards with consecutive values, not necessarily of the same suit,
 such as 4, 5, 6, 7, and 8. The ace can either precede a 2 or follow a king. Payout: 4
+
 • Flush—Five cards, not necessarily in order, of the same suit. Payout: 5
+
 • Full House—Three of a kind and a pair, for example three queens and two 5’s.
 Payout: 6
+
 • Four of a Kind—Four cards of the same value, such as four queens. Payout: 25
+
 • Straight Flush—A straight and a flush: Five cards with consecutive values of
 the same suit. Payout: 50
+
 • Royal Flush—The best possible hand in poker. A 10, jack, queen, king, and ace,
 all of the same suit. Payout: 250
