@@ -8,7 +8,9 @@ hand is scored. Your program should pronounce it to be one of the following:
 
 • No pair—The lowest hand, containing five separate cards that do not match up
 to create any of the hands below.
+
 • One pair—Two cards of the same value, for example two queens. Payout: 1
+
 • Two pairs—Two pairs, for example two queens and two 5’s. Payout: 2
 • Three of a kind—Three cards of the same value, for example three queens.
 Payout: 3
